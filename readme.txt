@@ -4,7 +4,7 @@ aaa
 git是个好东西
 222222
 333333333333
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
 
 
 
